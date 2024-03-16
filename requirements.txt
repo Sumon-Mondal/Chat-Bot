@@ -1,0 +1,14 @@
+requests
+pycryptodome
+aiohttp
+certifi
+nest_asyncio
+werkzeug
+loguru
+pillow
+platformdirs
+fastapi
+flask
+brotli
+beautifulsoup4
+selenium-wire
