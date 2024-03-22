@@ -18,7 +18,7 @@ Getting Started
 1. Clone the Repository:
 
 
-git clone [https://github.com/your-username/jarvis.git](https://github.com/Sumon-Mondal/Jarvis-Chat-Bot.git)
+git clone [https://github.com/Sumon-Mondal/Jarvis-Chat-Bot.git](https://github.com/Sumon-Mondal/Jarvis-Chat-Bot.git)
 
 
 2. Install Dependencies:
