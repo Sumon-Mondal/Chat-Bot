@@ -12,3 +12,15 @@ flask
 brotli
 beautifulsoup4
 selenium-wire
+pygame
+pytorch
+colorma
+tkinter
+cv2
+os
+csv
+numpy
+PIL
+pandas
+datetime
+time
