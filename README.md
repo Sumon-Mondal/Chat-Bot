@@ -44,14 +44,3 @@ We welcome contributions to Jarvis! Feel free to fork the repository, make your 
 License
 
 This project is licensed under the MIT License.  See the LICENSE file for details.
-
-Author
-
-* Sumon Mondal
-Feel free to customize this template further by adding:
-
-* Screenshots or GIFs showcasing Jarvis in action.
-* Links to any relevant documentation or tutorials.
-* A section highlighting your personal contributions to the project (if applicable).
-
-By including these elements, you can create a visually appealing and informative README file that showcases your Jarvis project effectively. This can definitely be a strong addition to your resume, demonstrating your technical skills and project development abilities.
